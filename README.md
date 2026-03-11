@@ -1,18 +1,18 @@
 # AquaPredict: Full-Stack Water Intelligence Platform
 
-## 🌊 Project Overview
+## Project Overview
 
 AquaPredict is a comprehensive, full-stack software system designed for sustainable water resource management. It provides powerful predictive analytics, water demand forecasting, and reservoir storage simulations. Originally built as a Streamlit prototype, **AquaPredict is now a modern web application** featuring a high-performance Python FastAPI backend and a dynamic, responsive React frontend.
 
-## 🚀 Key Features
+## Key Features
 
-- **📊 Time Series Forecasting**: ARIMA-based water demand prediction models trained on historical data.
-- **💧 Reservoir Simulation**: Physical water balance modeling capturing storage dynamics under various pressure scenarios.
-- **⚖️ Gap Analysis**: Supply-demand comparison alerting to potential shortage windows and establishing risk classifications.
-- **🌍 Interactive Dashboards**: A state-of-the-art React frontend utilizing Recharts and dynamic SVG mapping for data exploration.
-- **🔄 Global State Sync**: Select any Indian state (e.g., Andhra Pradesh, Telangana, Maharashtra) to instantly re-calculate and re-render the entire analytical pipeline for that region.
+- **Time Series Forecasting**: ARIMA-based water demand prediction models trained on historical data.
+- **Reservoir Simulation**: Physical water balance modeling capturing storage dynamics under various pressure scenarios.
+- **Gap Analysis**: Supply-demand comparison alerting to potential shortage windows and establishing risk classifications.
+- **Interactive Dashboards**: A state-of-the-art React frontend utilizing Recharts and dynamic SVG mapping for data exploration.
+- **Global State Sync**: Select any Indian state (e.g., Andhra Pradesh, Telangana, Maharashtra) to instantly re-calculate and re-render the entire analytical pipeline for that region.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend (User Interface)
 - **Framework**: React 18, Vite
@@ -30,7 +30,7 @@ AquaPredict is a comprehensive, full-stack software system designed for sustaina
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 AquaPredict utilizes a **monorepo** architecture, housing both the Python backend and React frontend within the same repository.
 
@@ -54,7 +54,7 @@ AquaPredict/
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 You will need both **Python** and **Node.js** installed on your system.
 
@@ -72,7 +72,7 @@ npm install
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 To run the full application locally, you need to spin up both the FastAPI server and the Vite React server simultaneously in two separate terminal windows.
 
@@ -94,7 +94,7 @@ Open the local network link provided by Vite in your browser to interact with Aq
 
 ---
 
-## ⚙️ How It Works (Data Flow)
+## How It Works (Data Flow)
 
 1. **User Interaction**: The user selects a state (e.g., "Maharashtra") from the global `StateContext` dropdown in the React top bar.
 2. **React Query**: `axios` intercepts the state change and fires a `GET` request to `http://localhost:8000/api/analysis/Maharashtra`.
@@ -105,7 +105,7 @@ Open the local network link provided by Vite in your browser to interact with Aq
    - A compiled analytical response containing KPIs and chart axes is constructed.
 4. **Data Visualization**: React receives the structured JSON from Python and smoothly re-renders the Recharts visualizations on the dashboard.
 
-## 🎯 Risk Classification
+## Risk Classification
 The analytical engine categorizes periods into:
 - **🟢 Safe**: Storage > 60% capacity
 - **🟠 Moderate**: Storage 30-60% capacity (Stress Zone)
