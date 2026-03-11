@@ -1,0 +1,217 @@
+date,state,reservoir_name,capacity_mcm,current_storage_mcm,rainfall_mm,estimated_inflow_mcm,water_demand_mcm
+2023-01,Andhra Pradesh,Srisailam,8720,4433.16,333.24,53.25,87.89
+2023-02,Andhra Pradesh,Srisailam,8720,4393.14,63.05,4.63,44.65
+2023-03,Andhra Pradesh,Srisailam,8720,4339.17,304.5,42.68,96.65
+2023-04,Andhra Pradesh,Srisailam,8720,4235.9,17.0,3.32,106.6
+2023-05,Andhra Pradesh,Srisailam,8720,4187.58,82.2,6.35,54.67
+2023-06,Andhra Pradesh,Srisailam,8720,4127.62,113.44,14.6,74.56
+2023-07,Andhra Pradesh,Srisailam,8720,4091.92,109.02,15.46,51.16
+2023-08,Andhra Pradesh,Srisailam,8720,4026.91,109.33,11.47,76.49
+2023-09,Andhra Pradesh,Srisailam,8720,3967.92,276.96,22.14,81.14
+2023-10,Andhra Pradesh,Srisailam,8720,3891.36,211.42,12.04,88.6
+2023-11,Andhra Pradesh,Srisailam,8720,3779.51,67.98,4.06,115.91
+2023-12,Andhra Pradesh,Srisailam,8720,3773.08,338.31,57.94,64.37
+2024-01,Andhra Pradesh,Srisailam,8720,3704.46,43.21,6.6,75.21
+2024-02,Andhra Pradesh,Srisailam,8720,3668.11,51.49,6.4,42.75
+2024-03,Andhra Pradesh,Srisailam,8720,3603.45,319.17,28.35,93.0
+2024-04,Andhra Pradesh,Srisailam,8720,3534.56,115.98,14.85,83.74
+2024-05,Andhra Pradesh,Srisailam,8720,3446.79,72.85,14.24,102.01
+2024-06,Andhra Pradesh,Srisailam,8720,3419.65,329.43,60.69,87.83
+2024-07,Andhra Pradesh,Srisailam,8720,3384.44,323.44,20.47,55.68
+2024-08,Andhra Pradesh,Srisailam,8720,3315.85,25.38,2.51,71.09
+2024-09,Andhra Pradesh,Srisailam,8720,3265.13,102.26,17.82,68.54
+2024-10,Andhra Pradesh,Srisailam,8720,3227.72,105.52,13.87,51.27
+2024-11,Andhra Pradesh,Srisailam,8720,3126.07,282.75,17.3,118.95
+2024-12,Andhra Pradesh,Srisailam,8720,3107.38,272.56,21.75,40.44
+2023-01,Telangana,Nagarjuna Sagar,11472,7333.48,250.33,39.89,101.7
+2023-02,Telangana,Nagarjuna Sagar,11472,7287.86,35.18,3.65,49.27
+2023-03,Telangana,Nagarjuna Sagar,11472,7264.93,303.46,43.54,66.47
+2023-04,Telangana,Nagarjuna Sagar,11472,7201.97,31.61,3.06,66.01
+2023-05,Telangana,Nagarjuna Sagar,11472,7128.58,258.07,37.58,110.98
+2023-06,Telangana,Nagarjuna Sagar,11472,7043.11,170.55,11.59,97.06
+2023-07,Telangana,Nagarjuna Sagar,11472,6977.48,268.67,36.05,101.68
+2023-08,Telangana,Nagarjuna Sagar,11472,6926.12,177.89,22.84,74.2
+2023-09,Telangana,Nagarjuna Sagar,11472,6884.84,18.64,1.23,42.51
+2023-10,Telangana,Nagarjuna Sagar,11472,6826.15,226.38,21.99,80.69
+2023-11,Telangana,Nagarjuna Sagar,11472,6781.16,318.57,27.84,72.83
+2023-12,Telangana,Nagarjuna Sagar,11472,6757.51,266.89,22.5,46.16
+2024-01,Telangana,Nagarjuna Sagar,11472,6651.18,108.52,8.05,114.38
+2024-02,Telangana,Nagarjuna Sagar,11472,6582.76,284.76,41.29,109.72
+2024-03,Telangana,Nagarjuna Sagar,11472,6493.44,283.25,22.09,111.4
+2024-04,Telangana,Nagarjuna Sagar,11472,6414.84,193.38,33.09,111.69
+2024-05,Telangana,Nagarjuna Sagar,11472,6364.47,118.12,7.86,58.23
+2024-06,Telangana,Nagarjuna Sagar,11472,6282.41,155.22,26.81,108.86
+2024-07,Telangana,Nagarjuna Sagar,11472,6210.59,12.36,1.57,73.39
+2024-08,Telangana,Nagarjuna Sagar,11472,6149.39,85.52,5.81,67.01
+2024-09,Telangana,Nagarjuna Sagar,11472,6100.44,330.59,32.56,81.5
+2024-10,Telangana,Nagarjuna Sagar,11472,6008.74,249.03,26.03,117.74
+2024-11,Telangana,Nagarjuna Sagar,11472,5958.55,337.23,29.6,79.78
+2024-12,Telangana,Nagarjuna Sagar,11472,5926.02,112.3,10.41,42.95
+2023-01,Rajasthan,Rana Pratap Sagar,2890,1632.64,180.91,10.44,62.29
+2023-02,Rajasthan,Rana Pratap Sagar,2890,1608.45,318.81,27.4,51.59
+2023-03,Rajasthan,Rana Pratap Sagar,2890,1583.99,176.41,34.9,59.36
+2023-04,Rajasthan,Rana Pratap Sagar,2890,1564.15,238.53,39.18,59.01
+2023-05,Rajasthan,Rana Pratap Sagar,2890,1500.66,257.59,27.09,90.58
+2023-06,Rajasthan,Rana Pratap Sagar,2890,1482.82,225.4,29.38,47.22
+2023-07,Rajasthan,Rana Pratap Sagar,2890,1456.74,294.0,28.85,54.92
+2023-08,Rajasthan,Rana Pratap Sagar,2890,1365.85,23.86,3.31,94.21
+2023-09,Rajasthan,Rana Pratap Sagar,2890,1309.71,15.64,1.98,58.12
+2023-10,Rajasthan,Rana Pratap Sagar,2890,1231.9,229.36,17.47,95.28
+2023-11,Rajasthan,Rana Pratap Sagar,2890,1207.86,141.49,26.96,51.0
+2023-12,Rajasthan,Rana Pratap Sagar,2890,1102.32,125.96,8.44,113.98
+2024-01,Rajasthan,Rana Pratap Sagar,2890,1036.87,308.3,27.34,92.8
+2024-02,Rajasthan,Rana Pratap Sagar,2890,992.86,287.86,38.37,82.37
+2024-03,Rajasthan,Rana Pratap Sagar,2890,886.98,92.23,5.9,111.78
+2024-04,Rajasthan,Rana Pratap Sagar,2890,865.69,316.14,45.83,67.12
+2024-05,Rajasthan,Rana Pratap Sagar,2890,774.38,128.73,20.45,111.77
+2024-06,Rajasthan,Rana Pratap Sagar,2890,735.05,311.61,52.03,91.36
+2024-07,Rajasthan,Rana Pratap Sagar,2890,626.03,38.61,2.87,111.88
+2024-08,Rajasthan,Rana Pratap Sagar,2890,589.02,216.19,11.11,48.12
+2024-09,Rajasthan,Rana Pratap Sagar,2890,548.11,235.59,11.96,52.86
+2024-10,Rajasthan,Rana Pratap Sagar,2890,486.18,196.57,30.23,92.16
+2024-11,Rajasthan,Rana Pratap Sagar,2890,440.73,86.25,13.53,58.98
+2024-12,Rajasthan,Rana Pratap Sagar,2890,368.3,120.64,19.54,91.97
+2023-01,Maharashtra,Jayakwadi,2170,1404.94,233.59,31.59,47.49
+2023-02,Maharashtra,Jayakwadi,2170,1357.55,135.02,12.12,59.52
+2023-03,Maharashtra,Jayakwadi,2170,1283.32,340.82,37.14,111.36
+2023-04,Maharashtra,Jayakwadi,2170,1241.11,224.59,38.01,80.21
+2023-05,Maharashtra,Jayakwadi,2170,1211.03,206.15,25.54,55.62
+2023-06,Maharashtra,Jayakwadi,2170,1192.63,255.63,23.55,41.95
+2023-07,Maharashtra,Jayakwadi,2170,1094.97,229.46,17.57,115.24
+2023-08,Maharashtra,Jayakwadi,2170,1087.95,334.34,62.6,69.61
+2023-09,Maharashtra,Jayakwadi,2170,1016.58,15.26,2.89,74.25
+2023-10,Maharashtra,Jayakwadi,2170,974.23,338.66,65.88,108.24
+2023-11,Maharashtra,Jayakwadi,2170,878.0,110.11,11.87,108.09
+2023-12,Maharashtra,Jayakwadi,2170,802.34,117.75,8.88,84.54
+2024-01,Maharashtra,Jayakwadi,2170,767.42,328.29,50.69,85.6
+2024-02,Maharashtra,Jayakwadi,2170,654.34,43.04,6.12,119.2
+2024-03,Maharashtra,Jayakwadi,2170,551.52,57.63,7.36,110.19
+2024-04,Maharashtra,Jayakwadi,2170,495.79,261.86,40.47,96.2
+2024-05,Maharashtra,Jayakwadi,2170,403.47,132.23,12.43,104.75
+2024-06,Maharashtra,Jayakwadi,2170,341.81,285.44,51.4,113.06
+2024-07,Maharashtra,Jayakwadi,2170,260.97,183.86,23.02,103.86
+2024-08,Maharashtra,Jayakwadi,2170,193.18,230.99,35.87,103.66
+2024-09,Maharashtra,Jayakwadi,2170,154.61,312.6,31.48,70.05
+2024-10,Maharashtra,Jayakwadi,2170,117.47,41.95,5.74,42.88
+2024-11,Maharashtra,Jayakwadi,2170,76.66,168.3,22.11,62.92
+2024-12,Maharashtra,Jayakwadi,2170,45.18,210.88,11.51,42.99
+2023-01,Karnataka,Krishna Raja Sagara,1240,729.38,132.46,9.15,81.78
+2023-02,Karnataka,Krishna Raja Sagara,1240,661.93,271.8,22.39,89.83
+2023-03,Karnataka,Krishna Raja Sagara,1240,581.68,39.02,2.25,82.51
+2023-04,Karnataka,Krishna Raja Sagara,1240,511.81,193.82,28.22,98.09
+2023-05,Karnataka,Krishna Raja Sagara,1240,489.54,341.79,43.56,65.84
+2023-06,Karnataka,Krishna Raja Sagara,1240,439.83,280.36,25.41,75.12
+2023-07,Karnataka,Krishna Raja Sagara,1240,324.79,36.68,1.97,117.01
+2023-08,Karnataka,Krishna Raja Sagara,1240,297.5,294.23,45.43,72.72
+2023-09,Karnataka,Krishna Raja Sagara,1240,242.54,68.92,5.06,60.02
+2023-10,Karnataka,Krishna Raja Sagara,1240,180.65,196.74,30.92,92.82
+2023-11,Karnataka,Krishna Raja Sagara,1240,101.94,105.18,20.32,99.03
+2023-12,Karnataka,Krishna Raja Sagara,1240,56.51,198.48,28.14,73.57
+2024-01,Karnataka,Krishna Raja Sagara,1240,0.0,94.23,9.74,100.63
+2024-02,Karnataka,Krishna Raja Sagara,1240,0.0,14.89,1.0,43.68
+2024-03,Karnataka,Krishna Raja Sagara,1240,0.0,23.85,4.25,96.29
+2024-04,Karnataka,Krishna Raja Sagara,1240,0.0,171.22,11.07,79.33
+2024-05,Karnataka,Krishna Raja Sagara,1240,0.0,170.98,12.99,74.71
+2024-06,Karnataka,Krishna Raja Sagara,1240,0.0,145.49,20.71,90.81
+2024-07,Karnataka,Krishna Raja Sagara,1240,0.0,25.4,2.7,90.07
+2024-08,Karnataka,Krishna Raja Sagara,1240,0.0,181.07,32.32,92.7
+2024-09,Karnataka,Krishna Raja Sagara,1240,0.0,65.4,3.96,91.39
+2024-10,Karnataka,Krishna Raja Sagara,1240,0.0,19.01,2.62,115.22
+2024-11,Karnataka,Krishna Raja Sagara,1240,0.0,205.66,22.26,91.46
+2024-12,Karnataka,Krishna Raja Sagara,1240,0.0,165.81,21.86,115.32
+2023-01,Tamil Nadu,Mettur,2640,1368.71,336.8,62.58,55.66
+2023-02,Tamil Nadu,Mettur,2640,1329.44,33.58,2.19,41.46
+2023-03,Tamil Nadu,Mettur,2640,1290.16,42.11,6.42,45.7
+2023-04,Tamil Nadu,Mettur,2640,1269.24,118.45,20.93,41.86
+2023-05,Tamil Nadu,Mettur,2640,1246.26,286.92,26.48,49.45
+2023-06,Tamil Nadu,Mettur,2640,1171.7,246.89,35.64,110.2
+2023-07,Tamil Nadu,Mettur,2640,1153.46,259.92,44.32,62.56
+2023-08,Tamil Nadu,Mettur,2640,1060.35,70.33,11.44,104.55
+2023-09,Tamil Nadu,Mettur,2640,1029.39,346.77,38.8,69.76
+2023-10,Tamil Nadu,Mettur,2640,942.63,273.98,27.71,114.46
+2023-11,Tamil Nadu,Mettur,2640,877.08,301.86,34.52,100.07
+2023-12,Tamil Nadu,Mettur,2640,782.32,266.54,17.45,112.2
+2024-01,Tamil Nadu,Mettur,2640,748.34,181.79,31.63,65.6
+2024-02,Tamil Nadu,Mettur,2640,741.56,314.48,34.08,40.87
+2024-03,Tamil Nadu,Mettur,2640,696.26,317.83,20.24,65.55
+2024-04,Tamil Nadu,Mettur,2640,674.52,333.02,64.14,85.88
+2024-05,Tamil Nadu,Mettur,2640,637.43,224.82,26.36,63.46
+2024-06,Tamil Nadu,Mettur,2640,555.61,121.75,18.37,100.19
+2024-07,Tamil Nadu,Mettur,2640,555.33,279.14,47.02,47.3
+2024-08,Tamil Nadu,Mettur,2640,481.81,178.1,10.44,83.96
+2024-09,Tamil Nadu,Mettur,2640,443.06,160.12,29.33,68.07
+2024-10,Tamil Nadu,Mettur,2640,345.7,49.8,3.56,100.92
+2024-11,Tamil Nadu,Mettur,2640,313.32,220.19,14.35,46.73
+2024-12,Tamil Nadu,Mettur,2640,222.7,248.33,15.13,105.75
+2023-01,Gujarat,Sardar Sarovar,9500,5696.22,37.66,2.36,118.93
+2023-02,Gujarat,Sardar Sarovar,9500,5605.69,137.25,14.49,105.02
+2023-03,Gujarat,Sardar Sarovar,9500,5571.14,332.06,65.72,100.27
+2023-04,Gujarat,Sardar Sarovar,9500,5477.59,137.93,8.62,102.17
+2023-05,Gujarat,Sardar Sarovar,9500,5387.79,199.86,22.71,112.51
+2023-06,Gujarat,Sardar Sarovar,9500,5352.81,47.81,5.92,40.91
+2023-07,Gujarat,Sardar Sarovar,9500,5313.2,169.34,9.9,49.51
+2023-08,Gujarat,Sardar Sarovar,9500,5220.88,49.96,7.36,99.68
+2023-09,Gujarat,Sardar Sarovar,9500,5191.37,208.35,40.49,69.99
+2023-10,Gujarat,Sardar Sarovar,9500,5152.8,107.14,19.32,57.89
+2023-11,Gujarat,Sardar Sarovar,9500,5052.7,337.5,17.49,117.59
+2023-12,Gujarat,Sardar Sarovar,9500,4975.02,24.67,4.53,82.22
+2024-01,Gujarat,Sardar Sarovar,9500,4911.94,347.61,21.23,84.31
+2024-02,Gujarat,Sardar Sarovar,9500,4865.21,339.56,43.62,90.35
+2024-03,Gujarat,Sardar Sarovar,9500,4804.14,246.55,29.14,90.2
+2024-04,Gujarat,Sardar Sarovar,9500,4799.15,208.67,38.64,43.64
+2024-05,Gujarat,Sardar Sarovar,9500,4708.25,105.53,20.32,111.22
+2024-06,Gujarat,Sardar Sarovar,9500,4669.64,164.92,23.59,62.19
+2024-07,Gujarat,Sardar Sarovar,9500,4610.22,73.96,8.84,68.27
+2024-08,Gujarat,Sardar Sarovar,9500,4505.12,208.44,12.85,117.95
+2024-09,Gujarat,Sardar Sarovar,9500,4475.66,345.31,53.43,82.89
+2024-10,Gujarat,Sardar Sarovar,9500,4400.71,115.24,19.83,94.78
+2024-11,Gujarat,Sardar Sarovar,9500,4307.09,65.29,12.19,105.8
+2024-12,Gujarat,Sardar Sarovar,9500,4270.91,332.93,52.89,89.07
+2023-01,Madhya Pradesh,Indira Sagar,9750,5138.6,327.13,58.85,43.62
+2023-02,Madhya Pradesh,Indira Sagar,9750,5035.77,18.96,2.02,104.84
+2023-03,Madhya Pradesh,Indira Sagar,9750,4973.32,345.67,25.08,87.53
+2023-04,Madhya Pradesh,Indira Sagar,9750,4893.23,139.5,27.27,107.37
+2023-05,Madhya Pradesh,Indira Sagar,9750,4855.53,295.03,35.49,73.19
+2023-06,Madhya Pradesh,Indira Sagar,9750,4752.37,102.96,6.02,109.18
+2023-07,Madhya Pradesh,Indira Sagar,9750,4689.91,286.39,57.27,119.73
+2023-08,Madhya Pradesh,Indira Sagar,9750,4607.21,198.85,32.88,115.58
+2023-09,Madhya Pradesh,Indira Sagar,9750,4557.2,298.88,26.03,76.04
+2023-10,Madhya Pradesh,Indira Sagar,9750,4479.11,53.91,10.41,88.49
+2023-11,Madhya Pradesh,Indira Sagar,9750,4402.89,87.74,13.23,89.45
+2023-12,Madhya Pradesh,Indira Sagar,9750,4318.0,131.78,8.83,93.73
+2024-01,Madhya Pradesh,Indira Sagar,9750,4267.38,186.9,31.0,81.61
+2024-02,Madhya Pradesh,Indira Sagar,9750,4222.31,299.74,39.8,84.88
+2024-03,Madhya Pradesh,Indira Sagar,9750,4205.64,308.06,34.05,50.72
+2024-04,Madhya Pradesh,Indira Sagar,9750,4119.24,19.79,3.23,89.62
+2024-05,Madhya Pradesh,Indira Sagar,9750,4088.77,249.39,20.44,50.91
+2024-06,Madhya Pradesh,Indira Sagar,9750,4003.11,14.95,1.53,87.19
+2024-07,Madhya Pradesh,Indira Sagar,9750,3907.35,143.36,16.58,112.33
+2024-08,Madhya Pradesh,Indira Sagar,9750,3820.98,128.41,16.32,102.69
+2024-09,Madhya Pradesh,Indira Sagar,9750,3732.74,144.82,20.76,108.99
+2024-10,Madhya Pradesh,Indira Sagar,9750,3642.6,332.84,23.98,114.13
+2024-11,Madhya Pradesh,Indira Sagar,9750,3581.61,177.32,15.73,76.73
+2024-12,Madhya Pradesh,Indira Sagar,9750,3557.83,343.21,42.52,66.3
+2023-01,Kerala,Idukki,1996,1133.0,91.65,5.63,50.31
+2023-02,Kerala,Idukki,1996,1085.79,53.54,3.9,51.11
+2023-03,Kerala,Idukki,1996,1035.74,227.9,17.61,67.65
+2023-04,Kerala,Idukki,1996,980.47,314.91,38.13,93.4
+2023-05,Kerala,Idukki,1996,942.61,68.59,5.41,43.27
+2023-06,Kerala,Idukki,1996,894.64,67.44,6.19,54.16
+2023-07,Kerala,Idukki,1996,820.51,40.16,2.73,76.86
+2023-08,Kerala,Idukki,1996,748.63,80.15,8.39,80.27
+2023-09,Kerala,Idukki,1996,658.35,244.73,13.68,103.95
+2023-10,Kerala,Idukki,1996,562.38,223.49,13.92,109.89
+2023-11,Kerala,Idukki,1996,519.35,323.1,19.11,62.15
+2023-12,Kerala,Idukki,1996,510.68,284.11,46.09,54.76
+2024-01,Kerala,Idukki,1996,440.49,81.18,8.57,78.76
+2024-02,Kerala,Idukki,1996,386.68,220.21,23.2,77.0
+2024-03,Kerala,Idukki,1996,341.15,264.14,14.66,60.19
+2024-04,Kerala,Idukki,1996,306.75,252.54,46.54,80.93
+2024-05,Kerala,Idukki,1996,243.57,190.92,12.62,75.79
+2024-06,Kerala,Idukki,1996,198.54,191.09,16.5,61.54
+2024-07,Kerala,Idukki,1996,140.1,138.28,7.33,65.77
+2024-08,Kerala,Idukki,1996,98.64,81.89,8.12,49.58
+2024-09,Kerala,Idukki,1996,47.8,312.78,43.49,94.33
+2024-10,Kerala,Idukki,1996,35.57,278.32,34.72,46.95
+2024-11,Kerala,Idukki,1996,0.0,192.62,26.59,99.64
+2024-12,Kerala,Idukki,1996,0.0,156.76,10.84,62.7
